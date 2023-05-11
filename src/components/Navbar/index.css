@@ -1,0 +1,23 @@
+.nav-bar {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 50px 10px 50px;
+}
+.dark-nav-bar {
+  background-color: #333333;
+}
+.logo {
+  height: 50px;
+  width: 75px;
+}
+.nav-container {
+  display: flex;
+  flex-direction: row;
+}
+.link {
+  text-decoration: none;
+}
+.link-el {
+  margin: 5px;
+  font-size: 18px;
+}
